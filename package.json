@@ -1,0 +1,7 @@
+{
+  "name": "love-master",
+  "version": "1.0.0",
+  "dependencies": {
+    "html-webpack-plugin": "^5.5.0"
+  }
+}
